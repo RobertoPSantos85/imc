@@ -1,0 +1,10 @@
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\bin\Debug\IMC.exe.config
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\bin\Debug\IMC.exe
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\bin\Debug\IMC.pdb
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.exe
+C:\Users\Roberto\Desktop\Alura\C#\Windows Forms\IMC\obj\Debug\IMC.pdb
